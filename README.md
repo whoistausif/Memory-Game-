@@ -48,6 +48,7 @@ The game continues until all matching pairs are found.
 
 ## 📂 Project Structure
 
+```
 MemoryGame/
 │
 ├── index.html        # Main HTML file
@@ -55,9 +56,10 @@ MemoryGame/
 ├── script.js         # Game logic
 ├── images/           # Card images (HTML, CSS, JS, PHP, etc.)
 └── README.md         # Project documentation
-
+```
 
 ---
+
 
 ## ⚙️ How to Run the Project
 
